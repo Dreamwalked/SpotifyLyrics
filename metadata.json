@@ -1,0 +1,7 @@
+{
+    "name": "SpotifyLyrics",
+    "entry": "index.js",
+    "requires": [
+		"PogData"
+	]    
+}
