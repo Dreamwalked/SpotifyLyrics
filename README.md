@@ -2,21 +2,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Dreamwalked/CosineAddons">
-    <img src="assets/cosine.png" alt="Logo" width="150" height="150">
-  </a>
 
-<h3 align="center">CosineAddons</h3>
+<h3 align="center">Spotify Lyrics</h3>
 
   <p align="center">
-    A modification that displays your current song playing on spotify's lyrics on the corner of your screen
-    <br />
-    <a href="https://github.com/Dreamwalked/CosineAddons">View Demo</a>
-    ·
-    <a href="https://github.com/Dreamwalked/CosineAddons/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/Dreamwalked/CosineAddons/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+    A Minecraft modification that displays your current song playing on spotify's lyrics on the corner of your screen
 </div>
 
 
