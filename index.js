@@ -20,7 +20,7 @@ register("command", (...args) => {
         config.save()
         modMessage(`Set y to ${config.y}`)
     }
-}).setName("cf")
+}).setName("sl")
 
 const ProcessBuilder = Java.type("java.lang.ProcessBuilder")
 const Scanner = Java.type("java.util.Scanner")
